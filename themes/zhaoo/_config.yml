@@ -16,7 +16,7 @@ color:
   text: "#33333D"
   text-secondary: "#4e4e4e"
   text-third: "#999999"
-  background: "#ffffff"
+  background: "#FFFFFF"
   background-secondary: "#f6f8fa"
   text-dark: "#dddddd"
   text-secondary-dark: "#9899ab"
@@ -48,10 +48,10 @@ loading: /images/theme/loading.gif
 preview:
   enable: true
   model: wave  # cloud
-  welcome_image: /images/theme/welcome-image.jpg
+  welcome_image: /images/theme/2005706.jpg
   motto:
-    default: 我在开了灯的床头下，想问问自己的心啊。
-    color: '#000000'
+    default: 努力提升自己，如此不负青春年华。
+    color: '#FFFFCC'
     api:  # http://localhost:3000/api/motto
 
 # Copyright
@@ -59,7 +59,7 @@ copyright: <p>Powered by <a target="_blank" href="https://hexo.io">Hexo</a>  |  
 
 # Social
 social:
-  qq: tencent://message/?Menu=yes&uin=894519210 || iconQQ || '#12B7F5'
+  qq: tencent://message/?Menu=yes&uin=1137102347 || iconQQ || '#12B7F5'
   wechat: javascript:; || iconwechat-fill || '#09BB07'
   instagram: https://www.instagram.com/izhaoo/ || iconinstagram || '#DA2E76'
   github: https://github.com/izhaoo || icongithub-fill || '#24292E'
@@ -85,11 +85,11 @@ gray:
 # Post Image
 post_image:
   random: local # galleries
-  default: /images/theme/post-image.jpg
+  default: /images/theme/20210129011641.jpg
 
 # Page Size
 post_page_size:
-  width: 800px
+  width: 1000px
 
 # Donate
 donate:

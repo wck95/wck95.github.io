@@ -3,7 +3,7 @@
 ## Source: https://github.com/hexojs/hexo/
 
 # Site
-title: 程序员的烂笔头
+title: 泛黄的牛皮纸
 subtitle: ''
 description: ''
 keywords:
@@ -44,13 +44,15 @@ render_drafts: false
 post_asset_folder: true 
 relative_link: false
 future: true
+
+#启用代码高亮效果
 highlight:
-  enable: false
+  enable: true
   line_number: true
-  auto_detect: false
-  tab_replace: false
+  auto_detect: true
+  tab_replace: ''
   wrap: true
-  hljs: false
+  hljs: true
 
 #代码高亮插件配置
 prism_plugin:
@@ -88,7 +90,7 @@ prismjs:
 # order_by: Posts order. (Order by date descending by default)
 index_generator:
   path: ''
-  per_page: 10
+  per_page: 9
   order_by: -date
 
 # Category & Tag
