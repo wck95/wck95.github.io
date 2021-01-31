@@ -1,5 +1,5 @@
 ---
-title: tk.Mybatis 的使用
+title: Tk.Mybatis 的使用
 image: /images/title_images/Mybatis_logo.jpg  #设置本地图片
 keywords: tk.Mybatis, Mybatis, springboot,
 tags: 
