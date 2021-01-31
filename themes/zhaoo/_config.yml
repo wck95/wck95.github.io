@@ -85,7 +85,7 @@ gray:
 # Post Image
 post_image:
   random: local # galleries
-  default: /images/theme/20210129011641.jpg
+  default: /images/theme/2005706.jpg
 
 # Page Size
 post_page_size:
@@ -132,6 +132,10 @@ gitalk:
   admin:
   clientID:
   clientSecret:
+
+# Caption
+caption:
+  enable: true
 
 # Valine
 valine:
@@ -213,3 +217,11 @@ custom:
   foot:
   css:
   js:
+
+# TOC 配置项 toc 用于设置 文章目录，开启后会在文章内容右侧生成目录，点击目录可平滑到对应的标题处
+# 全局开启 文章目录 后，可以在文章 Front-matter 中添加 toc 字段单独控制该文章是否展示文章目录。
+# toc: false # 关闭文章目录
+toc:
+  enable: true
+  min_depth: 1
+  max_depth: 3

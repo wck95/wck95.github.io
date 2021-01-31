@@ -53,6 +53,7 @@ highlight:
   tab_replace: ''
   wrap: true
   hljs: true
+  background: '#000000'
 
 #代码高亮插件配置
 prism_plugin:
